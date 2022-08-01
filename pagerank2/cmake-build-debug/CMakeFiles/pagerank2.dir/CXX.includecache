@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alyssafoglia/CLionProjects/pagerank2/adjacencyList.cpp
+adjacencyList.h
+/Users/alyssafoglia/CLionProjects/pagerank2/adjacencyList.h
+
+/Users/alyssafoglia/CLionProjects/pagerank2/adjacencyList.h
+map
+-
+vector
+-
+iostream
+-
+iterator
+-
+algorithm
+-
+iomanip
+-
+math.h
+-
+
+/Users/alyssafoglia/CLionProjects/pagerank2/main.cpp
+iostream
+-
+adjacencyList.h
+/Users/alyssafoglia/CLionProjects/pagerank2/adjacencyList.h
+
